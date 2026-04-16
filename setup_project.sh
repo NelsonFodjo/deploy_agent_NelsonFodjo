@@ -20,7 +20,7 @@ read -p "Do you want to update the attendance thresholds? (y/n): " choice
 
 if [ "$choice" = "y" ]; then
 	#Capture new threshold values from the userrr
-	read -p "Enter the ner warning value: " warning
+	read -p "Enter the new warning value: " warning
 	read -p "Enter the new failure value: " failure
 
 	#user sed to update the warning threshold in config.json in-place
