@@ -1,5 +1,9 @@
 # deploy_agent_NelsonFodjo
 
+## Explanatory video
+In this video, I explain how I approached the solution, how the shell script was created, and the logic that was followed.
+[![Watch the demo](https://img.youtube.com/vi/PKVRpGk4L2I/maxresdefault.jpg)](https://youtu.be/PKVRpGk4L2I)
+
 ## Running the script
 
 ```bash
